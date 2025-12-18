@@ -9,7 +9,6 @@
 - 🔗 Developed **AgriChain** – blockchain-based agriculture & parametric crop insurance
 - 🛡️ Built **BlockSafeguard** – blockchain-powered DDoS detection & protection system
 - 🖼️ Created **BlockLens** – AI-based image forensics & authenticity verification
-- 💧 Interested in **sustainability & wastewater-related technology use cases**
 - 🐘 Strong in **DBMS (SQL & NoSQL)** and **Linux systems**
 - 🌱 Currently exploring **advanced blockchain integration & cloud security**
 
